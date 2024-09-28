@@ -1,0 +1,9 @@
+.contenedorflex1{
+    @extend %flexbasico;
+    gap: 1rem; justify-content: center;
+    align-items:center; 
+    background-color: rgb(8, 1, 1);
+}
+.text-center{
+    background-color: black; font-size:larger; color: aliceblue;
+}

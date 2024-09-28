@@ -1,0 +1,46 @@
+@charset "UTF-8";
+.contenedorflex1, .flex {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.headerindex {
+  background-color: rgb(0, 0, 0);
+  height: 100vh;
+}
+
+.container-fluid {
+  background-color: rgb(0, 0, 0);
+}
+
+.flex {
+  justify-content: center;
+  height: 80%;
+  color: white;
+  align-items: center;
+}
+
+.tamañoimg {
+  height: 80%;
+  width: 50%;
+}
+
+.contenedorflex1 {
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(8, 1, 1);
+}
+
+.text-center {
+  background-color: black;
+  font-size: larger;
+  color: aliceblue;
+}
+
+.contenedorflex1 {
+  flex-direction: row;
+}
+
+/*# sourceMappingURL=styles.css.map */

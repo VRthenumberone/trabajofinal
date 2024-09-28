@@ -1,0 +1,7 @@
+* body{
+    background-color: black;
+}
+.imagen01{ height: 40rem; width: 40rem;}
+
+.contenedorspoty{
+display: flex; justify-content: center; align-items: center; flex-direction: column;}
